@@ -30,7 +30,7 @@
 
 */
 :root {
-    --primary_color: #00B9FD;
+    --primary_color: rgb(27, 160, 103);
 }
 *,*::before,*::after {
     margin: 0;
@@ -711,8 +711,8 @@ main.drake-main {
     max-width: 110px;
     text-align: right;
     color: #fff;
-    font-size: 16px;
-    font-weight: 400;
+    font-size: 20px;
+    font-weight: 500;
 }
 .left-sidebar h2 {
     font-size: 24px;
